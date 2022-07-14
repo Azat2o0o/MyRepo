@@ -1,0 +1,14 @@
+class Users:
+name = input('Напишите имя')
+login = input ('напишите логин')
+password = input ('придумайте пароль')
+ def __init__(self, login, password, name):
+	print('Регистрация успешно прошла!')
+
+ def registr (self):
+	self.log = login
+	self.name = name
+	self.pasw = password
+
+
+
