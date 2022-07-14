@@ -10,5 +10,5 @@ password = input ('придумайте пароль')
 	self.name = name
 	self.pasw = password
 
-
+user1= Users (Азат, z.azat00, AzAt2o0o)
 
